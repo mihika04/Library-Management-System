@@ -21,5 +21,20 @@ Create a schema in your workbench with the name "library_mgmt" and update the va
 ```
 Run the project on the server configured in your IDE.
 
+# Documentation
+## Frameworks Used
+
+1.Spring
+2.Spring Web MVC
+3.Hibernate Core
+
+## Programming Language Used
+
+Java
+
+
+
+
+
 
 
