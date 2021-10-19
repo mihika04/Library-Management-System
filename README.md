@@ -9,7 +9,7 @@ Install JDK 11, MySQL Workbench and an IDE(Eclipse/IntelliJ) that supports Sprin
 
 Create a schema in your workbench with the name "library_mgmt" and update the value of username and password accordingly in dispatcher-servlet.xml that can be found in src/main/webapp/WEB-INF/dispatcher-servlet.xml. 
 
-'''
+```
 <bean class="org.springframework.jdbc.datasource.DriverManagerDataSource" 
   name="ds"> 
    <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"></property>
@@ -17,7 +17,8 @@ Create a schema in your workbench with the name "library_mgmt" and update the va
    <property name="username" value="root"></property>
    <property name="password" value="1234"></property> 
  </bean>
-'''
+
+```
 Run the project on the server configured in your IDE.
 
 
