@@ -24,9 +24,9 @@ Run the project on the server configured in your IDE.
 # Documentation
 ## Frameworks Used
 
-1.Spring
-2.Spring Web MVC
-3.Hibernate Core
+1.Spring <br />
+2.Spring Web MVC <br />
+3.Hibernate Core <br />
 
 ## Programming Language Used
 
