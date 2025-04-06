@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library Management System
 A library management system designed for a librarian.
 
 ## Installation
